@@ -23,7 +23,7 @@ Calcula a multiplicação de dois números inseridos pelo usuário.
 ---
 
 ### 4. [Conversor de Combustível](https://snack.expo.dev/@tatcom23/atividade-4)
-Converte valores de combustível entre litros e galões.  
+Cálculo para verificar qual valor de combustível é mais vantajoso para abastecer o carro (álcool ou gasolina).  
 🛠️ **Ferramentas usadas**: `TextInput`, `Button`, `useState`
 
 ---
@@ -41,7 +41,7 @@ Jogo onde o usuário tenta adivinhar um número aleatório gerado pelo aplicativ
 ---
 
 ### 7. [Anúncios para Venda de Produtos (ScrollView)](https://snack.expo.dev/@tatcom23/atividade-7)
-Exibe uma lista de produtos em um layout com rolagem vertical.  
+Exibe uma lista de produtos em um layout com rolagem horizontal.  
 🛠️ **Ferramentas usadas**: `ScrollView`, `Image`, `Text`
 
 ---
